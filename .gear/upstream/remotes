@@ -1,0 +1,3 @@
+[remote "upstream"]
+	url = https://github.com/colour-science/flask-compress.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*

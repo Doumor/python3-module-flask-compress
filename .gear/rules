@@ -1,0 +1,3 @@
+tar: .
+spec: .gear/python3-module-flask-compress.spec
+copy: .gear/version.patch

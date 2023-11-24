@@ -1,0 +1,10 @@
+--- setup.py	2023-11-24 18:27:00.047865826 +0300
++++ setup-new.py	2023-11-24 18:47:42.803340864 +0300
+@@ -6,6 +6,7 @@
+ setup(
+     name='Flask-Compress',
+     use_scm_version=True,
++    version='{version}',
+     url='https://github.com/colour-science/flask-compress',
+     license='MIT',
+     author='Thomas Mansencal',
